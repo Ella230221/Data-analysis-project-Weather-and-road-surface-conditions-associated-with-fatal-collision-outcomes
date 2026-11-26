@@ -1,0 +1,29 @@
+{
+  "rows": 272301,
+  "fields": 23,
+  "bytes": 17398658,
+  "sha256": "d1d4fcc176b387281dadbf02b9e32890174e7e9e07f05961c54e5e7c4487a87c",
+  "blanks": {
+    "C_YEAR": 0,
+    "C_CASE": 0,
+    "C_SEV": 0,
+    "C_WTHR": 0,
+    "C_RSUR": 0,
+    "C_HOUR": 0,
+    "C_MNTH": 0,
+    "C_RCFG": 0,
+    "C_VEHS": 0
+  },
+  "exact_duplicates": 401,
+  "keys": 105782,
+  "collisions": 105782,
+  "fatal": 1623,
+  "python": "3.12.14",
+  "os": "Linux-6.18.57-x86_64-with-glibc2.41",
+  "cpu": "x86_64",
+  "available_cpus": 9,
+  "java": "openjdk version \"21.0.13.1\" 2026-11-17",
+  "spark": "3.5.7",
+  "pandas": "2.2.3",
+  "sklearn": "1.8.0"
+}
