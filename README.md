@@ -43,5 +43,3 @@ The report accompanies this repository. See [the viva guide](VIVA.md) for the de
 ## AI assistance
 
 OpenAI ChatGPT (Codex) provided basic support with coding and assisted with report drafting and review.
-
-Verification included a full local run, a source-file hash check, independent checks of grouped counts and agreement across all timed Spark runs.
