@@ -42,4 +42,6 @@ The report accompanies this repository. See [the viva guide](VIVA.md) for the de
 
 ## AI assistance
 
-OpenAI ChatGPT (Codex) assisted with drafting the implementation, debugging the local run, and organizing the report and demonstration. The audit checks, independent grouped-count comparison and repeated Spark output checks were executed. Both team members should review the code and be able to explain the feature choices, holdout design and timing settings during the viva.
+OpenAI ChatGPT (Codex) provided basic support with coding and assisted with report drafting and review.
+
+Verification included a full local run, a source-file hash check, independent checks of grouped counts and agreement across all timed Spark runs.
